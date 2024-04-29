@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ToDoList-UseState",
+    "slug": "ToDoList-UseState",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Not_Icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Not_Icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Not_Icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Not_Icon.png",
+      "bundler": "metro",
+      "output": "server"
+    },
+    "plugins": ["expo-router"],
+    "scheme": "myapp"
+  }
+}
