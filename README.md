@@ -1,16 +1,6 @@
 # Todo List with React Native Expo
 
-This project is a Todo List app built with React Native Expo. It is divided into three branches, each showcasing the usage of a different hook: useState, useDispatch, and useContext.
-
-## Branches
-
-1. **Main Branch**: This branch serves as an overview of the project and explains how it is divided into three separate branches, each utilizing a different hook.
-
-2. **UseState Branch**: This branch demonstrates the usage of the useState hook throughout the project. It showcases how state is managed and updated in the Todo List app.
-
-3. **UseDispatch Branch**: This branch focuses on the usage of the useDispatch hook to maintain the main functionality of the project. It highlights how actions are dispatched and handled in the Todo List app.
-
-4. **UseContext Branch**: This branch showcases the usage of the useContext hook to maintain the main functionality of the project. It demonstrates how context is used to share data between components in the Todo List app.
+This project is a Todo List app built with React Native Expo By Exploring UseState Which Is A React Hook.
 
 ## Getting Started
 
